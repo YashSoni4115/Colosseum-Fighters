@@ -1,6 +1,4 @@
-# Colosseum Fighters (refactored)
-
-This is the same single-file Pygame project, split into smaller modules so it is easier to read and maintain.
+# Colosseum Fighters
 
 ## Files
 
